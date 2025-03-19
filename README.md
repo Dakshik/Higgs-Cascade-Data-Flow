@@ -101,6 +101,4 @@ This dataset can be used for:
 - **Trend Analysis**: Identifying key influencers and discussion patterns.
 - **Graph Modeling**: Mapping relationships and propagations within conversations.
 
-## Contribution
-For questions or contributions, feel free to submit issues or pull requests.
 
